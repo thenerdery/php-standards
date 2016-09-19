@@ -10,7 +10,7 @@ title: Nerdery PHP Standards
 email: noreply@nerdery.com
 description: The Nerdery's PHP Standards
 baseurl: "/php-standards" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://thenerdery.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
